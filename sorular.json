@@ -1,0 +1,2116 @@
+    {
+        "Tarih": {
+            "1": [
+                {
+                    "question": "Tarihte ilk yazılı belgeler hangi uygarlık tarafından oluşturulmuştur ?", 
+                    "choices": ["A: Sümerler", "B: Mısırlılar", "C: Yunanlılar", "D: Romalılar"], 
+                    "answer": "A",
+                    "focus_area": "Antik Uygarlık"
+                },
+                {
+                    
+                    "question": "Osmanlı İmparatorluğu'nun başkenti neresidir ?", 
+                    "choices": ["A: İstanbul", "B: Ankara", "C: Bursa", "D: Edirne"], 
+                    "answer": "A",
+                    "focus_area": "Osmanlı Tarihi"
+                },
+                {
+                    "question": "Kurtuluş Savaşı hangi yıllar arasında gerçekleşmiştir ?", 
+                    "choices": ["A: 1914-1918", "B: 1919-1923", "C: 1923-1938", "D: 1939-1945"], 
+                    "answer": "B",
+                    "focus_area": "Türk Tarihi"
+                },
+                {
+                    "question": "Cumhuriyet hangi tarihte ilan edilmiştir ?", 
+                    "choices": ["A: 23 Nisan 1920", "B: 29 Ekim 1923", "C: 1 Mayıs 1920", "D: 30 Ağustos 1922"], 
+                    "answer": "B",
+                    "focus_area": "Türk Tarihi"
+                },
+                {
+                    "question": "İlk Türk devletinin adı nedir ?", 
+                    "choices": ["A: Göktürkler", "B: Uygurlar", "C: Selçuklular", "D: Osmanlılar"], 
+                    "answer": "A",
+                    "focus_area": "Türk Tarihi"
+                },
+                {
+                    "question": "Hangisi Roma İmparatorluğu'nun kurucusudur ?", 
+                    "choices": ["A: Julius Caesar", "B: Augustus", "C: Nero", "D: Tiberius"], 
+                    "answer": "B",
+                    "focus_area": "Antik Uygarlıklar"
+                },
+                {
+                    "question": "Fransız İhtilali hangi yıl gerçekleşmiştir ?", 
+                    "choices": ["A: 1789", "B: 1799", "C: 1776", "D: 1804"], 
+                    "answer": "A",
+                    "focus_area": "Devrimler ve Hareketler"
+                }
+            ],
+            "2": [
+                {
+                    "question": "Hangi savaş ile Osmanlı Devleti Balkanlar'daki topraklarını kaybetmiştir ?", 
+                    "choices": ["A: I. Dünya Savaşı", "B: Balkan Savaşları", "C: Kurtuluş Savaşı", "D: Napolyon Savaşları"], 
+                    "answer": "B",
+                    "focus_area": "Osmanlı Tarihi"
+                },
+                {
+                    "question": "Tarihte ilk deniz savaşı hangi uygarlıklar arasında olmuştur ?", 
+                    "choices": ["A: Yunanlılar ve Persler", "B: Romalılar ve Mısırlılar", "C: Fenikeliler ve Yunanlılar", "D: Osmanlılar ve Venedikliler"], 
+                    "answer": "C",
+                    "focus_area": "Antik Uygarlıklar"
+                },
+                {
+                    "question": "Moğol İmparatorluğu'nun kurucusu kimdir ?", 
+                    "choices": ["A: Batu Han", "B: Cengiz Han", "C: Timur", "D: Kublai Han"], 
+                    "answer": "B",
+                    "focus_area": "Antik Uygarlıklar"
+                },
+                {
+                    "question": "Hangisi Sanayi Devrimi'nin ilk gerçekleştiği ülkedir ?", 
+                    "choices": ["A: Almanya", "B: Fransa", "C: İngiltere", "D: Amerika"], 
+                    "answer": "C",
+                    "focus_area": "Devrimler ve Hareketler"
+                },
+                {
+                    "question": "Amerika Birleşik Devletleri'nde bağımsızlık savaşı hangi tarihte başlamıştır ?", 
+                    "choices": ["A: 1776", "B: 1789", "C: 1804", "D: 1812"], 
+                    "answer": "A",
+                    "focus_area": "Devrimler ve Hareketler"
+                },
+                {
+                    "question": "Hangisi Avrupa'daki en büyük devletlerden biridir ?", 
+                    "choices": ["A: İtalya", "B: Almanya", "C: Fransa", "D: İspanya"], 
+                    "answer": "B",
+                    "focus_area": "Dünya Savaşları ve Modern Tarih"
+                },
+                {
+                    "question": "Hangisi Antik Yunan'ın en önemli filozoflarından biridir ?", 
+                    "choices": ["A: Sokrates", "B: Aristoteles", "C: Platon", "D: Hepsi"], 
+                    "answer": "D",
+                    "focus_area": "Antik Uygarlıklar"
+                }
+            ],
+            "3": [
+                {
+                    "question": "Hangisi Osmanlı Devleti'nin en uzun süre hüküm süren padişahıdır ?", 
+                    "choices": ["A: Fatih Sultan Mehmet", "B: Kanuni Sultan Süleyman", "C: Yavuz Sultan Selim", "D: II. Bayezid"], 
+                    "answer": "B",
+                    "focus_area": "Osmanlı Tarihi"
+                },
+                {
+                    "question": "Rönesans hangi döneme işaret eder ?", 
+                    "choices": ["A: Orta Çağ", "B: Yeni Çağ", "C: Eski Çağ", "D: Geç Antik Çağ"], 
+                    "answer": "B",
+                    "focus_area": "Devrimler ve Hareketler"
+                },
+                {
+                    "question": "İlk kağıt paranın kullanıldığı yer neresidir ?", 
+                    "choices": ["A: Çin", "B: Mısır", "C: Roma", "D: Yunanistan"], 
+                    "answer": "A",
+                    "focus_area": "Antik Uygarlıklar"
+                },
+                {
+                    "question": "Osmanlı İmparatorluğu'nun resmi dili nedir ?", 
+                    "choices": ["A: Türkçe", "B: Arapça", "C: Farsça", "D: Osmanlıca"], 
+                    "answer": "D",
+                    "focus_area": "Osmanlı Tarihi"
+                },
+                {
+                    "question": "Hangi tarihsel olay, Soğuk Savaş dönemiyle ilişkilidir ?", 
+                    "choices": ["A: Berlin Duvarı'nın yıkılması", "B: Vietnam Savaşı", "C: Küba Krizi", "D: Hepsi"], 
+                    "answer": "D",
+                    "focus_area": "Dünya Savaşları ve Modern Tarih"
+                },
+                {
+                    "question": "Napolyon'un egemenliği hangi yıllar arasında sürmüştür ?", 
+                    "choices": ["A: 1804-1815", "B: 1799-1815", "C: 1804-1821", "D: 1789-1804"], 
+                    "answer": "B",
+                    "focus_area": "Devrimler ve Hareketler"
+                },
+                {
+                    "question": "Mısır piramitlerinin inşasında hangi uygarlık etkili olmuştur ?", 
+                    "choices": ["A: Antik Yunan", "B: Roma", "C: Antik Mısır", "D: Mezopotamya"], 
+                    "answer": "C",
+                    "focus_area": "Antik Uygarlıklar"
+                }
+            ],
+            "4": [
+                {
+                    "question": "Mongol İmparatorluğu'nun en geniş sınırlarına ulaştığı dönem hangisidir ?", 
+                    "choices": ["A: Cengiz Han dönemi", "B: Kubilay Han dönemi", "C: Timur dönemi", "D: Ötüken dönemi"], 
+                    "answer": "A",
+                    "focus_area": "Antik Uygarlıklar"
+                },
+                {
+                    "question": "Osmanlı İmparatorluğu'nda hangi padişah döneminde Batı ile ilk diplomatik ilişkiler kurulmuştur ?", 
+                    "choices": ["A: II. Selim", "B: III. Mehmet", "C: IV. Murad", "D: I. Mahmud"], 
+                    "answer": "A",
+                    "focus_area": "Osmanlı Tarihi"
+                },
+                {
+                    "question": "Hangi uygarlıklar arasında Mısır-Hitit savaşları yaşanmıştır ?", 
+                    "choices": ["A: Mısır ve Fenikeliler", "B: Mısır ve Asurlular", "C: Mısır ve Hititler", "D: Mısır ve Yunanlılar"], 
+                    "answer": "C",
+                    "focus_area": "Antik Uygarlıklar"
+                },
+                {
+                    "question": "Sanayi Devrimi hangi sektörde başlamıştır ?", 
+                    "choices": ["A: Tarım", "B: Tekstil", "C: Madencilik", "D: Ulaşım"], 
+                    "answer": "B",
+                    "focus_area": "Devrimler ve Hareketler"
+                },
+                {
+                    "question": "Hangi olay, 1. Dünya Savaşı'na zemin hazırlamıştır ?", 
+                    "choices": ["A: Osmanlı İmparatorluğu'nun çöküşü", "B: Fransız Devrimi", "C: Avusturya-Macaristan Veliahtı'nın suikastı", "D: Alman İmparatorluğu'nun kurulması"], 
+                    "answer": "C",
+                    "focus_area": "Dünya Savaşları ve Modern Tarih"
+                },
+                {
+                    "question": "Hangi devlet, Amerika Birleşik Devletleri'ne bağımsızlık savaşında yardım etmiştir ?", 
+                    "choices": ["A: İspanya", "B: Fransa", "C: Hollanda", "D: İngiltere"], 
+                    "answer": "B",
+                    "focus_area": "Devrimler ve Hareketler"
+                },
+                {
+                    "question": "Hangi uygarlığın en önemli yapıtı 'Hammurabi Kanunları'dır ?", 
+                    "choices": ["A: Sümerler", "B: Babiller", "C: Asurlular", "D: Hititler"], 
+                    "answer": "B",
+                    "focus_area": "Antik Uygarlıklar"
+                }
+            ],
+            "5": [
+                {
+                    "question": "Nüfus artışına neden olan en önemli faktör nedir ?", 
+                    "choices": ["A: Sanayi Devrimi", "B: Tarımsal üretimin artması", "C: Göçler", "D: Savaşlar"], 
+                    "answer": "B",
+                    "focus_area": "Dünya Savaşları ve Modern Tarih"
+                },
+                {
+                    "question": "Kalkınma ve sanayileşme hangi tarihler arasında gerçekleşmiştir ?", 
+                    "choices": ["A: 19. yüzyıl", "B: 18. yüzyıl", "C: 20. yüzyıl", "D: 21. yüzyıl"], 
+                    "answer": "A",
+                    "focus_area": "Devrimler ve Hareketler"
+                },
+                {
+                    "question": "Osmanlı İmparatorluğu'nda ilk kadın padişah kimdir ?", 
+                    "choices": ["A: Hürrem Sultan", "B: Kösem Sultan", "C: Hatice Sultan", "D: Mihrimah Sultan"], 
+                    "answer": "B",
+                    "focus_area": "Osmanlı Tarihi"
+                },
+                {
+                    "question": "Hangi savaş, Osmanlı İmparatorluğu'nun sonunu getirmiştir ?", 
+                    "choices": ["A: I. Dünya Savaşı", "B: II. Dünya Savaşı", "C: Kurtuluş Savaşı", "D: Balkan Savaşları"], 
+                    "answer": "A",
+                    "focus_area": "Osmanlı Tarihi"
+                },
+                {
+                    "question": "Hangisi İngiltere'nin sömürge politikasının bir sonucu değildir ?", 
+                    "choices": ["A: Kolonizasyon", "B: Yerli halkın sömürülmesi", "C: Kültürel değişim", "D: Tam bağımsızlık"], 
+                    "answer": "D",
+                    "focus_area": "Dünya Savaşları ve Modern TarihXXX"
+                },
+                {
+                    "question": "Hangi uygarlıklar arasında Tarabya Antlaşması imzalanmıştır ?", 
+                    "choices": ["A: Osmanlı ve Rusya", "B: Osmanlı ve Avusturya", "C: Osmanlı ve İran", "D: Osmanlı ve Fransa"], 
+                    "answer": "A",
+                    "focus_area": "Antik Uygarlıklar"
+                },
+                {
+                    "question": "Hangisi Antik Roma'nın önemli yapıtlarından biridir ?", 
+                    "choices": ["A: Pantheon", "B: Eifel Kulesi", "C: Colosseum", "D: Piramidi"], 
+                    "answer": "C",
+                    "focus_area": "Antik Uygarlıklar"
+                }
+            ],
+            "6": [
+                {
+                    "question": "Hangisi Antik Yunan felsefesinin kurucusudur ?", 
+                    "choices": ["A: Platon", "B: Sokrates", "C: Aristoteles", "D: Thales"], 
+                    "answer": "D",
+                    "focus_area": "Antik Uygarlıklar"
+                },
+                {
+                    "question": "Hangi antik şehir, dünyanın yedi harikasından biridir ?", 
+                    "choices": ["A: Babil", "B: Efes", "C: Roma", "D: Atina"], 
+                    "answer": "A",
+                    "focus_area": "Antik Uygarlıklar"
+                },
+                {
+                    "question": "Hangi devlet, 1912'de Balkan Savaşları'na katılmıştır ?", 
+                    "choices": ["A: Osmanlı İmparatorluğu", "B: Yunanistan", "C: Sırbistan", "D: Bulgaristan"], 
+                    "answer": "A",
+                    "focus_area": "Dünya Savaşları ve Modern Tarih"
+                },
+                {
+                    "question": "Rönesans hareketinin en önemli temsilcisi kimdir ?", 
+                    "choices": ["A: Michelangelo", "B: Da Vinci", "C: Raphael", "D: Donatello"],
+                    "answer": "B",
+                    "focus_area": "Devrimler ve Hareketler"
+                },
+                {
+                    "question": "Hangi savaş, Napolyon'un sonunu getirmiştir ?", 
+                    "choices": ["A: Waterloo", "B: Austerlitz", "C: Borodino", "D: Trafalgar"], 
+                    "answer": "A",
+                    "focus_area": "Devrimler ve Hareketler"
+                },
+                {
+                    "question": "Hangisi İkinci Dünya Savaşı'nın başlangıç tarihi değildir ?", 
+                    "choices": ["A: 1939", "B: 1941", "C: 1940", "D: 1938"], 
+                    "answer": "D",
+                    "focus_area": "Dünya Savaşları ve Modern Tarih"
+                },
+                {
+                    "question": "Hangisi Antik Mısır'da en çok bilinen firavundur ?", 
+                    "choices": ["A: Ramses", "B: Tutankhamun", "C: Cleopatra", "D: Akhenaton"], 
+                    "answer": "B",
+                    "focus_area": "Antik Uygarlıklar"
+                }
+            ],
+            "7": [
+                {
+                    "question": "Dünya tarihi açısından en önemli olay hangisidir ?", 
+                    "choices": ["A: Tarım Devrimi", "B: Sanayi Devrimi", "C: Bilgisayar devrimi", "D: Hepsi"], 
+                    "answer": "D",
+                    "focus_area": "Dünya Savaşları ve Modern Tarih"
+                },
+                {
+                    "question": "Hangi olay, Soğuk Savaş'ın sona ermesine neden olmuştur ?", 
+                    "choices": ["A: Berlin Duvarı'nın yıkılması", "B: Vietnam Savaşı", "C: Küba Krizi", "D: Hepsi"], 
+                    "answer": "A",
+                    "focus_area": "Dünya Savaşları ve Modern Tarih"
+                },
+                {
+                    "question": "Hangi uluslararası kuruluş, 1945'te kurulmuştur ?", 
+                    "choices": ["A: NATO", "B: Birleşmiş Milletler", "C: Avrupa Birliği", "D: IMF"], 
+                    "answer": "B",
+                    "focus_area": "Dünya Savaşları ve Modern Tarih"
+                },
+                {
+                    
+                    "question": "Hangi devlet, Avrupa Birliği'ne ilk katılan ülkedir ?", 
+                    "choices": ["A: İtalya", "B: Almanya", "C: Fransa", "D: Belçika"], 
+                    "answer": "C",
+                    "focus_area": "Dünya Savaşları ve Modern Tarih"
+                },
+                {
+                    "question": "Hangisi Antik Roma'nın en ünlü yapıtlarından biridir ?", 
+                    "choices": ["A: Colosseum", "B: Pantheon", "C: Forum Romanum", "D: Hepsi"], 
+                    "answer": "D",
+                    "focus_area": "Antik Uygarlıklar"
+                },
+                {
+                    "question": "Hangisi Modern Çağ'ın en önemli yazarlarından biridir ?", 
+                    "choices": ["A: Shakespeare", "B: Tolstoy", "C: Kafka", "D: Hepsi"], 
+                    "answer": "D",
+                    "focus_area": "Devrimler ve Hareketler"
+                },
+                {
+                    "question": "Hangi felsefe akımı, varlığın özünü sorgular ?", 
+                    "choices": ["A: Stoacılık", "B: Platonculuk", "C: Varoluşçuluk", "D: Sokratik Felsefe"], 
+                    "answer": "C",
+                    "focus_area": "Devrimler ve Hareketler"
+                }
+            ]
+
+        },
+        "Coğrafya": {
+            "1": [
+                {
+                    "question": "Dünya'nın en yüksek dağı hangisidir ?", 
+                    "choices": ["A: Kilimanjaro", "B: Everest", "C: Alpler", "D: Himalaya"], 
+                    "answer": "B",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi okyanus en büyüğüdür ?", 
+                    "choices": ["A: Atlantik Okyanusu", "B: Hint Okyanusu", "C: Kuzey Buz Denizi", "D: Pasifik Okyanusu"], 
+                    "answer": "D",
+                    "focus_area": "Okyanuslar ve Denizler"
+                },
+                {
+                    "question": "Hangisi Türkiye'nin komşularından biridir ?", 
+                    "choices": ["A: Mısır", "B: Yunanistan", "C: Fransa", "D: İtalya"], 
+                    "answer": "B",
+                    "focus_area": "Türkiye Coğrafyası"
+                },
+                {
+                    "question": "Hangi iklim tipi, Akdeniz ikliminin tipik özelliğidir ?", 
+                    "choices": ["A: Sıcak ve kuru yazlar", "B: Soğuk ve yağışlı kışlar", "C: Sıcak ve yağışlı yazlar", "D: Ilıman kışlar"], 
+                    "answer": "A",
+                    "focus_area": "İklim Bilgisi"
+                },
+                {
+                    "question": "Hangi dağ, Türkiye'nin en yüksek zirvesidir ?", 
+                    "choices": ["A: Ağrı Dağı", "B: Erciyes", "C: Hasan Dağı", "D: Kaçkar Dağı"], 
+                    "answer": "A",
+                    "focus_area": "Türkiye Coğrafyası"
+                },
+                {
+                    "question": "Dünyanın en büyük çölü hangisidir ?", 
+                    "choices": ["A: Sahra Çölü", "B: Gobi Çölü", "C: Kalahari Çölü", "D: Mojave Çölü"], 
+                    "answer": "A",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi ülke, en fazla nüfusa sahip olan ülkedir ?", 
+                    "choices": ["A: Amerika", "B: Hindistan", "C: Çin", "D: Brezilya"], 
+                    "answer": "C",
+                    "focus_area": "Nüfus Coğrafyası"
+                }
+            ],
+            "2": [
+                {
+                    "question": "Türkiye'nin en uzun nehri hangisidir ?", 
+                    "choices": ["A: Fırat", "B: Dicle", "C: Kızılırmak", "D: Sakarya"], 
+                    "answer": "C",
+                    "focus_area": "Türkiye Coğrafyası"
+                },
+                {
+                    "question": "Hangi şehir Türkiye'nin başkentidir ?", 
+                    "choices": ["A: İstanbul", "B: Ankara", "C: İzmir", "D: Bursa"], 
+                    "answer": "B",
+                    "focus_area": "Türkiye Coğrafyası"
+                },
+                {
+                    "question": "Hangi iklim tipi, Sibirya'da görülür ?", 
+                    "choices": ["A: Okyanus iklimi", "B: Sıcak çöl iklimi", "C: Karasal iklim", "D: Akdeniz iklimi"], 
+                    "answer": "C",
+                    "focus_area": "İklim Bilgisi"
+                },
+                {
+                    "question": "Hangi dağlar Türkiye'nin kuzeyinde yer almaktadır ?", 
+                    "choices": ["A: Toros Dağları", "B: Kuzey Anadolu Dağları", "C: Batı Toros Dağları", "D: Doğu Toros Dağları"], 
+                    "answer": "B",
+                    "focus_area": "Türkiye Coğrafyası"
+                },
+                {
+                    "question": "Hangi ülke, dünyanın en küçük ülkesidir ?", 
+                    "choices": ["A: Vatikan", "B: Monaco", "C: San Marino", "D: Nauru"], 
+                    "answer": "A",
+                    "focus_area": "Siyasi Coğrafya"
+                },
+                {
+                    "question": "Hangi şehir, dünyanın en kalabalık şehridir ?", 
+                    "choices": ["A: Tokyo", "B: New York", "C: Şanghay", "D: Delhi"], 
+                    "answer": "A",
+                    "focus_area": "Nüfus Coğrafyası"
+                },
+                {
+                    "question": "Dünya'daki en büyük orman hangisidir ?", 
+                    "choices": ["A: Amazon Ormanı", "B: Sibirya Ormanı", "C: Afrika Ormanı", "D: Kuzey İskandinav Ormanı"], 
+                    "answer": "A",
+                    "focus_area": "Fiziki Coğrafya"
+                }
+            ],
+            "3": [
+                {
+                    "question": "Hangi ülke, en fazla doğal gaz rezervine sahiptir ?", 
+                    "choices": ["A: Rusya", "B: ABD", "C: İran", "D: Suudi Arabistan"], 
+                    "answer": "A",
+                    "focus_area": "Ekonomik Coğrafya"
+                },
+                {
+                    "question": "Hangi şehir, Avrupa'nın en büyük nüfusuna sahip olan şehridir ?", 
+                    "choices": ["A: Londra", "B: Paris", "C: Berlin", "D: Moskova"], 
+                    "answer": "D",
+                    "focus_area": "Nüfus Coğrafyası"
+                },
+                {
+                    "question": "Hangi nehir, dünyanın en uzun nehridir ?", 
+                    "choices": ["A: Amazon", "B: Nil", "C: Yangtze", "D: Mississippi"], 
+                    "answer": "B",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangisi Türkiye'nin en büyük gölüdür ?", 
+                    "choices": ["A: Van Gölü", "B: Tuz Gölü", "C: Sapanca Gölü", "D: İznik Gölü"], 
+                    "answer": "A",
+                    "focus_area": "Türkiye Coğrafyası"
+                },
+                {
+                    "question": "Hangi iklim, tropik bölgelerde görülür ?", 
+                    "choices": ["A: Tropikal iklim", "B: Akdeniz iklimi", "C: Sıcak çöl iklimi", "D: Karasal iklim"], 
+                    "answer": "A",
+                    "focus_area": "İklim Bilgisi"
+                },
+                {
+                    "question": "Hangi dağ, dünyadaki en yüksek volkanik dağdır ?", 
+                    "choices": ["A: Kilimanjaro", "B: Fuji", "C: Cotopaxi", "D: Mauna Loa"], 
+                    "answer": "D",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi ülke, en fazla ada sayısına sahiptir ?", 
+                    "choices": ["A: Endonezya", "B: Filipinler", "C: Japonya", "D: Maldivler"], 
+                    "answer": "A",
+                    "focus_area": "Siyasi Coğrafya"
+                }
+            ],
+            "4": [
+                {
+                    "question": "Hangisi Türkiye'nin en kalabalık şehridir ?", 
+                    "choices": ["A: İstanbul", "B: Ankara", "C: İzmir", "D: Bursa"], 
+                    "answer": "A",
+                    "focus_area": "Türkiye Coğrafyası"
+                },
+                {
+                    "question": "Hangisi dünyanın en uzun köprüsüdür ?", 
+                    "choices": ["A: Danyang-Kunshan Büyük Köprüsü", "B: Golden Gate Köprüsü", "C: Tower Bridge", "D: Sydney Harbour Bridge"], 
+                    "answer": "A",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi deniz, Karadeniz ile Akdeniz arasında yer alır ?", 
+                    "choices": ["A: Marmara Denizi", "B: Ege Denizi", "C: Adriyatik Denizi", "D: Kızıldeniz"], 
+                    "answer": "A",
+                    "focus_area": "Okyanuslar ve Denizler"
+                },
+                {
+                    "question": "Hangi ülke, hem Asya hem de Avrupa'da yer alır ?", 
+                    "choices": ["A: Rusya", "B: Türkiye", "C: Mısır", "D: Hepsi"], 
+                    "answer": "D",
+                    "focus_area": "Siyasi Coğrafya"
+                },
+                {
+                    "question": "Hangi dağ, Hindistan ile Pakistan arasındadır ?", 
+                    "choices": ["A: Himalaya", "B: K2", "C: Karakurum", "D: Piram Dağları"], 
+                    "answer": "A",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi şehir, dünyanın en soğuk yeridir ?", 
+                    "choices": ["A: Oymyakon", "B: Yakutsk", "C: Norilsk", "D: Murmansk"], 
+                    "answer": "A",
+                    "focus_area": "İklim Bilgisi"
+                },
+                {
+                    "question": "Hangi iklim tipi, Akdeniz Bölgesi'nde görülür ?", 
+                    "choices": ["A: Karasal iklim", "B: Okyanus iklimi", "C: Akdeniz iklimi", "D: Tropikal iklim"], 
+                    "answer": "C",
+                    "focus_area": "İklim Bilgisi"
+                }
+            ],
+            "5": [
+                {
+                    "question": "Dünya'nın en büyük okyanusu hangisidir ?", 
+                    "choices": ["A: Hint Okyanusu", "B: Pasifik Okyanusu", "C: Atlantik Okyanusu", "D: Kuzey Buz Denizi"], 
+                    "answer": "B",
+                    "focus_area": "Okyanuslar ve Denizler"
+                },
+                {
+                    "question": "Hangi ülke, Afrika kıtasında yer almaz ?", 
+                    "choices": ["A: Kenya", "B: Mısır", "C: Brezilya", "D: Uganda"], 
+                    "answer": "C",
+                    "focus_area": "Siyasi Coğrafya"
+                },
+                {
+                    "question": "Dünyanın en yüksek şelalesi hangisidir ?", 
+                    "choices": ["A: Angel Şelalesi", "B: Iguazu Şelalesi", "C: Niagara Şelalesi", "D: Victoria Şelalesi"], 
+                    "answer": "A",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi okyanus, Avustralya'nın doğusunda yer alır ?", 
+                    "choices": ["A: Hint Okyanusu", "B: Atlantik Okyanusu", "C: Pasifik Okyanusu", "D: Kuzey Buz Denizi"], 
+                    "answer": "C",
+                    "focus_area": "Okyanuslar ve Denizler"
+                },
+                {
+                    "question": "Hangi ülke, en büyük çöl olan Sahra'nın bir parçasıdır ?", 
+                    "choices": ["A: Libya", "B: Mısır", "C: Cezayir", "D: Hepsi"], 
+                    "answer": "D",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi şehir, Ekvador'un başkentidir ?", 
+                    "choices": ["A: Guayaquil", "B: Quito", "C: Cuenca", "D: Loja"], 
+                    "answer": "B",
+                    "focus_area": "Siyasi Coğrafya"
+                },
+                {
+                    "question": "Hangi okyanus, en fazla balık türüne ev sahipliği yapar ?", 
+                    "choices": ["A: Atlantik Okyanusu", "B: Hint Okyanusu", "C: Pasifik Okyanusu", "D: Kuzey Buz Denizi"], 
+                    "answer": "C",
+                    "focus_area": "Okyanuslar ve Denizler"
+                }
+            ],
+            "6": [
+                {
+                    "question": "Hangi deniz, dünyanın en tuzlu denizidir ?", 
+                    "choices": ["A: Karadeniz", "B: Kızıldeniz", "C: Ölü Deniz", "D: Ege Denizi"], 
+                    "answer": "C",
+                    "focus_area": "Okyanuslar ve Denizler"
+                },
+                {
+                    "question": "Hangi dağ, dünyanın en yüksek ikinci zirvesidir ?", 
+                    "choices": ["A: K2", "B: Kangchenjunga", "C: Lhotse", "D: Makalu"], 
+                    "answer": "A",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi ülke, dünyanın en büyük yüzölçümüne sahip olan ülkedir ?", 
+                    "choices": ["A: Kanada", "B: Çin", "C: ABD", "D: Rusya"], 
+                    "answer": "D",
+                    "focus_area": "Siyasi Coğrafya"
+                },
+                {
+                    "question": "Hangi göl, dünyanın en derin gölüdür ?", 
+                    "choices": ["A: Baykal Gölü", "B: Van Gölü", "C: Superior Gölü", "D: Victoria Gölü"], 
+                    "answer": "A",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi nehir, Avrupa'nın en uzun nehridir ?", 
+                    "choices": ["A: Ren", "B: Tuna", "C: Volga", "D: Dnieper"], 
+                    "answer": "B",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi iklim tipi, tundra iklimidir ?", 
+                    "choices": ["A: Soğuk iklim", "B: Sıcak iklim", "C: Karasal iklim", "D: Tropikal iklim"], 
+                    "answer": "A",
+                    "focus_area": "İklim Bilgisi"
+                },
+                {
+                    "question": "Hangi kıta, en fazla doğal kaynaklara sahiptir ?", 
+                    "choices": ["A: Asya", "B: Afrika", "C: Avrupa", "D: Amerika"], 
+                    "answer": "A",
+                    "focus_area": "Ekonomik Coğrafya"
+                }
+            ],
+            "7": [
+                {
+                    "question": "Hangisi en büyük volkanik dağdır ?", 
+                    "choices": ["A: Fuji", "B: Mauna Loa", "C: Kilimanjaro", "D: Cotopaxi"], 
+                    "answer": "B",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi okyanus, en çok sirkülasyona sahiptir ?", 
+                    "choices": ["A: Atlantik Okyanusu", "B: Hint Okyanusu", "C: Pasifik Okyanusu", "D: Kuzey Buz Denizi"], 
+                    "answer": "C",
+                    "focus_area": "Okyanuslar ve Denizler"
+                },
+                {
+                    "question": "Dünya'nın en büyük ada ülkesi hangisidir ?", 
+                    "choices": ["A: Endonezya", "B: Grönland", "C: Filipinler", "D: Japonya"], 
+                    "answer": "B",
+                    "focus_area": "Siyasi Coğrafya"
+                },
+                {
+                    "question": "Hangi nehir, dünyanın en uzun nehridir ?", 
+                    "choices": ["A: Amazon", "B: Nil", "C: Yangtze", "D: Mississipi"], 
+                    "answer": "B",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangisi en büyük çöl olan Sahra'dır ?", 
+                    "choices": ["A: Gobi", "B: Atacama", "C: Kalahari", "D: Sahra"], 
+                    "answer": "D",
+                    "focus_area": "Fiziki Coğrafya"
+                },
+                {
+                    "question": "Hangi iklim tipi, tropikal orman iklimidir ?", 
+                    "choices": ["A: Ekvatoral iklim", "B: Karasal iklim", "C: Akdeniz iklimi", "D: Sıcak çöl iklimi"], 
+                    "answer": "A",
+                    "focus_area": "İklim Bilgisi"
+                },
+                {
+                    "question": "Hangi dağ sırası, Asya'da yer almaktadır ?", 
+                    "choices": ["A: Alplar", "B: Himalayalar", "C: And Dağları", "D: Rocky Dağları"], 
+                    "answer": "B",
+                    "focus_area": "Fiziki Coğrafya"
+                }
+            ]
+
+        },
+        "Bilim": {
+            "1": [
+                {
+                    "question": "Su molekülü hangi iki elementten oluşur ?", 
+                    "choices": ["A: H ve O", "B: H ve N", "C: O ve C", "D: O ve N"], 
+                    "answer": "A",
+                    "focus_area": "Kimya"
+                },
+                {
+                    "question": "Dünya'ya en yakın yıldız hangisidir ?", 
+                    "choices": ["A: Sirius", "B:Proxima Centauri", "C: Alfa Centauri", "D: Güneş"], 
+                    "answer": "D",
+                    "focus_area": "Astronomi"
+                },
+                {
+                    "question": "Güneş Sisteminin en büyük gezegeni hangisidir ?", 
+                    "choices": ["A: Mars", "B: Jüpiter", "C: Satürn", "D: Venüs"], 
+                    "answer": "B",
+                    "focus_area": "Astronomi"
+                },
+                {
+                    "question": "Su kaç derecede donar ?", 
+                    "choices": ["A: 0°C", "B: 10°C", "C: -10°C", "D: -5°C"], 
+                    "answer": "A",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Hangi hayvan, Dünya'nın en hızlı koşucusudur ?", 
+                    "choices": ["A: Çita", "B: Tavşan", "C: Aslan", "D: At"], 
+                    "answer": "A",
+                    "focus_area": "Biyoloji"
+                }
+                ],
+            "2": [
+                {
+                    "question": "Dünya'daki yerçekimi kuvveti kaçtır ?", 
+                    "choices": ["A: 9.8 m/s²", "B: 8.9 m/s²", "C: 10 m/s²", "D: 7.9 m/s²"], 
+                    "answer": "A",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Hangi elementin kimyasal sembolü 'O' dur ?", 
+                    "choices": ["A: Oksijen", "B: Azot", "C: Karbon", "D: Hidrojen"], 
+                    "answer": "A",
+                    "focus_area": "Kimya"
+                },
+                {
+                    "question": "Işık hızı nedir ?", 
+                    "choices": ["A: 299,792,458 m/s", "B: 300,000,000 m/s", "C: 299,000,000 m/s", "D: 150,000,000 m/s"], 
+                    "answer": "A",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Hangisi DNA'nın yapısındaki bazlardan biridir ?", 
+                    "choices": ["A: Adenin", "B: Glikoz", "C: Riboz", "D: Timin"], 
+                    "answer": "A",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "En yaygın element hangisidir ?", 
+                    "choices": ["A: Hidrojen", "B: Oksijen", "C: Karbon", "D: Azot"], 
+                    "answer": "A",
+                    "focus_area": "Kimya"
+                },
+                {
+                    "question": "Bir elektronun negatif yükü nedir ?", 
+                    "choices": ["A: -1", "B: 0", "C: +1", "D: -2"], 
+                    "answer": "A",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Hangi gezegen, halkalarıyla ünlüdür ?", 
+                    "choices": ["A: Uranüs", "B: Jüpiter", "C: Neptün", "D: Satürn"], 
+                    "answer": "D",
+                    "focus_area": "Astronomi"
+                }
+            ],
+            "3": [
+                {
+                    "question": "Hangisi atomun çekirdeğinde bulunur ?", 
+                    "choices": ["A: Elektron", "B: Proton", "C: Nötron", "D: Proton ve Nötron"], 
+                    "answer": "D",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Hangi bilim adamı, yerçekimi kanununu keşfetmiştir ?", 
+                    "choices": ["A: Albert Einstein", "B: Galileo Galilei", "C: Isaac Newton", "D: Nikola Tesla"], 
+                    "answer": "C",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Hangi bilim dalı, canlıları inceler ?", 
+                    "choices": ["A: Kimya", "B: Biyoloji", "C: Fizik", "D: Matematik"], 
+                    "answer": "B",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "Hangi organ, vücutta kan pompalar ?", 
+                    "choices": ["A: Beyin", "B: Akciğer", "C: Karaciğer", "D: Kalp"], 
+                    "answer": "D",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "Einstein'ın ünlü denklemi nedir ?", 
+                    "choices": ["A: E=mc²", "B: F=ma", "C: V=IR", "D: P=IV"], 
+                    "answer": "A",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "Işık hangi maddeden daha hızlı geçer ?", 
+                    "choices": ["A: Su", "B: Cam", "C: Hava", "D: Elmas"], 
+                    "answer": "C",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Fotosentez işlemi hangi bitki organında gerçekleşir ?", 
+                    "choices": ["A: Kök", "B: Gövde", "C: Yaprak", "D: Tohum"], 
+                    "answer": "C",
+                    "focus_area": "Biyoloji"
+                }
+            ],
+            "4": [
+                {
+                    "question": "Hangi bilim insanı, özel görelilik teorisini ortaya atmıştır ?", 
+                    "choices": ["A: Isaac Newton", "B: Niels Bohr", "C: Albert Einstein", "D: Stephen Hawking"], 
+                    "answer": "C",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Elektrik iletkenliği en yüksek metal hangisidir ?", 
+                    "choices": ["A: Altın", "B: Gümüş", "C: Bakır", "D: Alüminyum"], 
+                    "answer": "B",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Dünya'da en uzun süre yaşayan canlısı hanisidir ?", 
+                    "choices": ["A: Fil", "B: Mavi Balina", "C: Kaplumbağa", "D: Grönland Köpekbalığı"], 
+                    "answer": "D",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "Bir elektronun kütlesi yaklaşık olarak nedir ?", 
+                    "choices": ["A: 9.11 x 10⁻³¹ kg", "B: 1.67 x 10⁻²⁷ kg", "C: 9.11 x 10⁻²⁷ kg", "D: 1.67 x 10⁻³¹ kg"], 
+                    "answer": "A",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Hangi gezegen, Güneş Sistemi'nde en büyük çaplıdır ?", 
+                    "choices": ["A: Jüpiter", "B: Satürn", "C: Uranüs", "D: Neptün"], 
+                    "answer": "A",
+                    "focus_area": "Astronomi"
+                },
+                {
+                    "question": "Dünyanın yer kabuğunda en bol bulunan element hangisidir ?", 
+                    "choices": ["A: Oksijen", "B: Silikon", "C: Demir", "D: Kalsiyum"], 
+                    "answer": "A",
+                    "focus_area": "Jeoloji"
+                },
+                {
+                    "question": "Hangi hücre organeli enerji üretir?", 
+                    "choices": ["A: Ribozom", "B: Mitokondri", "C: Kloroplast", "D: Golgi Cisimciği"], 
+                    "answer": "B",
+                    "focus_area": "Biyoloji"
+                }
+            ],
+            "5": [
+                {
+                    "question": "Güneş sisteminde en hızlı dönen gezegen hangisidir ?", 
+                    "choices": ["A: Venüs", "B: Jüpiter", "C: Mars", "D: Merkür"], 
+                    "answer": "B",
+                    "focus_area": "Astronomi"
+                },
+                {
+                    "question": "Hangi bilim insanı, mikroskobik yaşam formlarını keşfetmiştir ?", 
+                    "choices": ["A: Robert Hooke", "B: Louis Pasteur", "C: Antonie van Leeuwenhoek", "D: Gregor Mendel"], 
+                    "answer": "C",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "Hangi gezegenin atmosferi büyük oranda karbon dioksit içerir ?", 
+                    "choices": ["A: Venüs", "B: Mars", "C: Jüpiter", "D: Satürn"], 
+                    "answer": "A",
+                    "focus_area": "Astronomi"
+                },
+                {
+                    "question": "Hangi enerji kaynağı yenilenebilir değildir ?", 
+                    "choices": ["A: Güneş enerjisi", "B: Nükleer enerji", "C: Rüzgar enerjisi", "D: Hidroelektrik enerji"], 
+                    "answer": "B",
+                    "focus_area": "Genel Bilim"
+                },
+                {
+                    "question": "Dünyada en çok kullanılan metal hangisidir ?", 
+                    "choices": ["A: Demir", "B: Bakır", "C: Alüminyum", "D: Altın"], 
+                    "answer": "A",
+                    "focus_area": "Kimya"
+                },
+                {
+                    "question": "Hangisi bir element değildir ?", 
+                    "choices": ["A: Hidrojen", "B: Su", "C: Oksijen", "D: Demir"], 
+                    "answer": "B",
+                    "focus_area": "Kimya"
+                },
+                {
+                    "question": "Güneş Sistemi'nde en soğuk gezegen hangisidir ?", 
+                    "choices": ["A: Uranüs", "B: Neptün", "C: Satürn", "D: Jüpiter"], 
+                    "answer": "B",
+                    "focus_area": "Astronomi"
+                }
+            ],
+            "6": [
+                {
+                    "question": "Radyasyonu keşfeden bilim insanı hangisidir ?", 
+                    "choices": ["A: Albert Einstein", "B: Isaac Newton", "C: Marie Curie", "D: Galileo Galilei"], 
+                    "answer": "C",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Hangi molekül, enerji taşıyan bir moleküldür?", 
+                    "choices": ["A: ATP", "B: DNA", "C: RNA", "D: ADP"], 
+                    "answer": "A",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "Hangi astronom, Güneş'in merkezde olduğu bir evren modeli önermiştir?", 
+                    "choices": ["A: Galileo Galilei", "B: Nicolaus Copernicus", "C: Johannes Kepler", "D: Tycho Brahe"], 
+                    "answer": "B",
+                    "focus_area": "Astronomi"
+                },
+                {
+                    "question": "Kan dolaşımını keşfeden bilim insanı hangisidir ?", 
+                    "choices": ["A: Andreas Vesalius", "B: William Harvey", "C: Gregor Mendel", "D: Charles Darwin"], 
+                    "answer": "B",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "Hangi bilim dalı, genetik mirasın nasıl aktarıldığını inceler ?", 
+                    "choices": ["A: Genetik", "B: Biyokimya", "C: Ekoloji", "D: Fizik"], 
+                    "answer": "A",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "Evrim teorisini ortaya atan bilim insanı hangisidir ?", 
+                    "choices": ["A: Charles Darwin", "B: Alfred Wallace", "C: Gregor Mendel", "D: Carl Linnaeus"], 
+                    "answer": "A",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "Dünya'nın çekirdeği hangi elementlerden oluşur ?", 
+                    "choices": ["A: Demir ve Nikel", "B: Altın ve Gümüş", "C: Demir ve Bakır", "D: Nikel ve Bakır"], 
+                    "answer": "A",
+                    "focus_area": "Jeoloji"
+                }
+            ],
+            "7": [
+                {
+                    "question": "Hangi teori, evrenin başlangıcını açıklar?", 
+                    "choices": ["A: Big Bang Teorisi", "B: Görelilik Teorisi", "C: Kuantum Mekaniği", "D: Sicim Teorisi"], 
+                    "answer": "A",
+                    "focus_area": "Astronomi"
+                },
+                {
+                    "question": "Hangi atom altı parçacık, pozitif yüke sahiptir?", 
+                    "choices": ["A: Proton", "B: Nötron", "C: Elektron", "D: Kuark"], 
+                    "answer": "A",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "İnsan vücudunda en fazla enerji tüketen organ hangisidir ?", 
+                    "choices": ["A: Kalp", "B: Akciğer", "C: Beyin", "D: Karaciğer"], 
+                    "answer": "C",
+                    "focus_area": "Biyoloji"
+                },
+                {
+                    "question": "Hangi bilim insanı, termodinamiğin ikinci yasasını formüle etmiştir ?", 
+                    "choices": ["A: Isaac Newton", "B: Ludwig Boltzmann", "C: James Clerk Maxwell", "D: Rudolf Clausius"], 
+                    "answer": "D",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Hangi astronom, teleskopla gezegenlerin hareketlerini gözlemlemiştir?", 
+                    "choices": ["A: Galileo Galilei", "B: Johannes Kepler", "C: Nicolaus Copernicus", "D: Tycho Brahe"], 
+                    "answer": "A",
+                    "focus_area": "Astronomi"
+                },
+                {
+                    "question": "Hangi madde, ses hızını en hızlı iletir?", 
+                    "choices": ["A: Su", "B: Hava", "C: Çelik", "D: Cam"], 
+                    "answer": "C",
+                    "focus_area": "Fizik"
+                },
+                {
+                    "question": "Hangi element, periyodik tabloda en yüksek atom numarasına sahiptir?", 
+                    "choices": ["A: Oganesson", "B: Uranium", "C: Plütonyum", "D: Fermiyum"], 
+                    "answer": "A",
+                    "focus_area": "Kimya"
+                }
+            ]
+
+            },
+        "Edebiyat": {
+    "1": [
+        {
+            "question": "Hangi yazar 'Sefiller' adlı eseri yazmıştır ?", 
+            "choices": ["A: Victor Hugo", "B: Fyodor Dostoyevski", "C: Lev Tolstoy", "D: Gabriel García Márquez"], 
+            "answer": "A",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Don Kişot' adlı eser kimin tarafından yazılmıştır ?", 
+            "choices": ["A: William Shakespeare", "B: Miguel de Cervantes", "C: Charles Dickens", "D: Mark Twain"], 
+            "answer": "B",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Madam Bovary' adlı romanın yazarı kimdir ?", 
+            "choices": ["A: Albert Camus", "B: Gustave Flaubert", "C: Emile Zola", "D: Franz Kafka"], 
+            "answer": "B",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Suç ve Ceza' adlı eser hangi yazara aittir ?", 
+            "choices": ["A: Anton Çehov", "B: Fyodor Dostoyevski", "C: Leo Tolstoy", "D: Maksim Gorki"], 
+            "answer": "B",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Savaş ve Barış' adlı romanın yazarı kimdir ?", 
+            "choices": ["A: Leo Tolstoy", "B: Aleksandr Puşkin", "C: Ivan Turgenev", "D: Nikolay Gogol"], 
+            "answer": "A",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'1984' adlı distopik roman kimin eseridir ?", 
+            "choices": ["A: Aldous Huxley", "B: George Orwell", "C: Philip K. Dick", "D: Ray Bradbury"], 
+            "answer": "B",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "Orhan Pamuk, hangi romanıyla Nobel Edebiyat Ödülü kazanmıştır ?", 
+            "choices": ["A: Masumiyet Müzesi", "B: Kar", "C: Beyaz Kale", "D: Benim Adım Kırmızı"], 
+            "answer": "D",
+            "focus_area": "Modern Edebiyat"
+        }
+    ],
+    "2": [
+        {
+            "question": "'Goriot Baba' adlı eserin yazarı kimdir ?", 
+            "choices": ["A: Honoré de Balzac", "B: Gustave Flaubert", "C: Émile Zola", "D: Stendhal"], 
+            "answer": "A",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "William Shakespeare’in yazdığı ünlü trajedi hangisidir ?", 
+            "choices": ["A: Kral Lear", "B: Othello", "C: Macbeth", "D: Hamlet"], 
+            "answer": "D",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Kayıp Zamanın İzinde' hangi yazara aittir ?", 
+            "choices": ["A: James Joyce", "B: Marcel Proust", "C: Franz Kafka", "D: Virginia Woolf"], 
+            "answer": "B",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "John Steinbeck'in Nobel ödüllü romanı hangisidir ?", 
+            "choices": ["A: İnci", "B: Gazap Üzümleri", "C: Cennetin Doğusu", "D: Fareler ve İnsanlar"], 
+            "answer": "B",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Yüzyıllık Yalnızlık' romanının yazarı kimdir ?", 
+            "choices": ["A: Mario Vargas Llosa", "B: Gabriel García Márquez", "C: Julio Cortázar", "D: Jorge Luis Borges"], 
+            "answer": "B",
+            "focus_area": "Latin Edebiyatı"
+        },
+        {
+            "question": "'Karamazov Kardeşler' hangi yazara aittir ?", 
+            "choices": ["A: Anton Çehov", "B: Maksim Gorki", "C: Leo Tolstoy", "D: Fyodor Dostoyevski"], 
+            "answer": "D",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Bozkurtların Ölümü' adlı roman hangi Türk yazara aittir ?", 
+            "choices": ["A: Yahya Kemal Beyatlı", "B: Reşat Nuri Güntekin", "C: Halide Edip Adıvar", "D: Hüseyin Nihal Atsız"], 
+            "answer": "D",
+            "focus_area": "Türk Edebiyatı"
+        }
+    ],
+    "3": [
+        {
+            "question": "'Sineklerin Tanrısı' hangi yazara aittir ?", 
+            "choices": ["A: George Orwell", "B: J.D. Salinger", "C: William Golding", "D: Ernest Hemingway"], 
+            "answer": "C",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Küçük Prens' eserinin yazarı kimdir ?", 
+            "choices": ["A: Antoine de Saint-Exupéry", "B: Victor Hugo", "C: Jules Verne", "D: Marcel Proust"], 
+            "answer": "A",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Bülbülü Öldürmek' adlı roman kimin eseridir ?", 
+            "choices": ["A: John Steinbeck", "B: Harper Lee", "C: J.D. Salinger", "D: F. Scott Fitzgerald"], 
+            "answer": "B",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Suç ve Ceza' romanının ana teması nedir ?", 
+            "choices": ["A: Ahlak", "B: Aşk", "C: Savaş", "D: Aile"], 
+            "answer": "A",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Büyük Umutlar' hangi yazara aittir ?", 
+            "choices": ["A: Jane Austen", "B: Mark Twain", "C: Leo Tolstoy", "D: Charles Dickens"], 
+            "answer": "D",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Dönüşüm' adlı eserin yazarı kimdir ?", 
+            "choices": ["A: F. Scott Fitzgerald", "B: Ernest Hemingway", "C: Virginia Woolf", "D: Franz Kafka"], 
+            "answer": "D",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Yaban' adlı roman hangi Türk yazara aittir ?", 
+            "choices": ["A: Halide Edip Adıvar", "B: Yakup Kadri Karaosmanoğlu", "C: Orhan Kemal", "D: Reşat Nuri Güntekin"], 
+            "answer": "B",
+            "focus_area": "Türk Edebiyatı"
+        }
+    ],
+    "4": [
+        {
+            "question": "'Uçurtma Avcısı' hangi yazara aittir ?", 
+            "choices": ["A: Khaled Hosseini", "B: Elif Shafak", "C: Mohsin Hamid", "D: Orhan Pamuk"], 
+            "answer": "A",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Açlık Oyunları' adlı roman kimin eseridir ?", 
+            "choices": ["A: J.K. Rowling", "B: Stephenie Meyer", "C: Suzanne Collins", "D: Veronica Roth"], 
+            "answer": "C",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Yüzyıllık Yalnızlık' romanının ana teması nedir ?", 
+            "choices": ["A: Toplum", "B: Aşk", "C: Aile", "D: Savaş"], 
+            "answer": "C",
+            "focus_area": "Latin Edebiyatı"
+        },
+        {
+            "question": "'İkigai' adlı eser kimin yazdığı bir yaşam kılavuzudur?", 
+            "choices": ["A: Paulo Coelho", "B: Francesc Miralles", "C: Haruki Murakami", "D: Albert Camus"], 
+            "answer": "B",
+            "focus_area": "Kişisel Gelişim"
+        },
+        {
+            "question": "Bir edebiyat terimi olarak 'metafor' neyi ifade eder ?", 
+            "choices": ["A: Benzetme", "B: Çatışma", "C: İroni", "D: Temsil"], 
+            "answer": "A",
+            "focus_area": "Edebiyat Terimleri"
+        },
+        {
+            "question": "'Aşk-ı Memnu' romanının yazarı kimdir ?", 
+            "choices": ["A: Halit Ziya Uşaklıgil", "B: Reşat Nuri Güntekin", "C: Yakup Kadri Karaosmanoğlu", "D: Ahmet Hamdi Tanpınar"], 
+            "answer": "A",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Çocukluğum' adlı eser hangi yazara aittir ?", 
+            "choices": ["A: A. Halit Ziya Uşaklıgil", "B: Orhan Kemal", "C: Refik Halit Karay", "D: Kemal Tahir"], 
+            "answer": "C",
+            "focus_area": "Türk Edebiyatı"
+        }
+    ],
+    "5": [
+        {
+            "question": "'Beyaz Zambaklar Ülkesinde' eseri hangi yazar tarafından kaleme alınmıştır?", 
+            "choices": ["A: Fyodor Dostoyevski", "B: Anton Çehov", "C: Grigory Petrov", "D: Lev Tolstoy"], 
+            "answer": "C",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Otomatik Portakal' adlı roman kimin eseridir?", 
+            "choices": ["A: George Orwell", "B: Philip K. Dick", "C: Anthony Burgess", "D: Aldous Huxley"], 
+            "answer": "C",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Tütün Zamanı' eserinin yazarı kimdir?", 
+            "choices": ["A: Shahrnush Parsipur", "B: Nima Yushij", "C: Sadık Hidayet", "D: Sadegh Hedayat"], 
+            "answer": "C",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Gizli Bahçe' eserinin yazarı kimdir?", 
+            "choices": ["A: Roald Dahl", "B: J.M. Barrie", "C: Beatrix Potter", "D: Frances Hodgson Burnett"], 
+            "answer": "D",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Çalgın' romanında hangi tema öne çıkmaktadır?", 
+            "choices": ["A: Savaş", "B: Göç", "C: Aşk", "D: Doğa"], 
+            "answer": "B",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Küçük Kadınlar' eserinin yazarı kimdir?", 
+            "choices": ["A: Jane Austen", "B: Charlotte Brontë", "C: Mark Twain", "D: Louisa May Alcott"], 
+            "answer": "D",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Madam Bovary' eserinde hangi tema işlenmektedir?", 
+            "choices": ["A: Aşk", "B: Toplumun beklentileri", "C: Savaş", "D: Hayal kırıklığı"], 
+            "answer": "B",
+            "focus_area": "Klasik Edebiyat"
+        }
+    ],
+    "6": [
+        {
+            "question": "'Dört Mevsim' adlı şiir kitabı kimin eseridir?", 
+            "choices": ["A: Edip Cansever", "B: Ahmet Hamdi Tanpınar", "C: Orhan Veli Kanık", "D: Cemal Süreya"], 
+            "answer": "B",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Serenad' adlı roman kimin eseridir?", 
+            "choices": ["A: Zülfü Livaneli", "B: Orhan Pamuk", "C: Elif Şafak", "D: Oğuz Atay"], 
+            "answer": "A",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Savaş ve Barış' romanı hangi dönemde yazılmıştır?", 
+            "choices": ["A: 20. Yüzyıl", "B: 19. Yüzyıl", "C: 21. Yüzyıl", "D: 18. Yüzyıl"], 
+            "answer": "B",
+            "focus_area": "Klasik Edebiyat"
+        },
+        {
+            "question": "'Hüzünlü Şarkılar' isimli eserin yazarı kimdir?", 
+            "choices": ["A: Behçet Necatigil", "B: Cemal Süreya", "C: Orhan Veli Kanık", "D: Edip Cansever"], 
+            "answer": "D",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Kayıp Zamanın İzinde' eseri hangi yazar tarafından kaleme alınmıştır?", 
+            "choices": ["A: James Joyce", "B: Virginia Woolf", "C: Marcel Proust", "D: Franz Kafka"], 
+            "answer": "C",
+            "focus_area": "Modern Edebiyat"
+        },
+        {
+            "question": "'Dokuzuncu Hariciye Koğuşu' eserinin yazarı kimdir?", 
+            "choices": ["A: Halit Ziya Uşaklıgil", "B: Reşat Nuri Güntekin", "C: Yakup Kadri Karaosmanoğlu", "D: Ahmet Hamdi Tanpınar"], 
+            "answer": "B",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Beyaz Zambaklar Ülkesinde' eserinin ana teması nedir?", 
+            "choices": ["A: Aşk", "B: Eğitim", "C: Doğa", "D: Savaş"], 
+            "answer": "B",
+            "focus_area": "Klasik Edebiyat"
+        }
+    ],
+    "7": [
+        {
+            "question": "'İstanbul Hatırası' adlı eser kimin yazdığı bir romanıdır?", 
+            "choices": ["A: Zülfü Livaneli", "B: Elif Şafak", "C: Orhan Pamuk", "D: Ahmet Ümit"], 
+            "answer": "D",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Muz Sesleri' adlı eserin yazarı kimdir?", 
+            "choices": ["A: Sabahattin Ali", "B: Halide Edip Adıvar", "C: Vüs'at O. Bener", "D: Orhan Kemal"], 
+            "answer": "C",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Oğullar ve Rencide Ruhlar' adlı eser kimin kaleminden çıkmıştır?", 
+            "choices": ["A: Hakan Günday", "B: Latife Tekin", "C: Ercan Kesal", "D: Zülfü Livaneli"], 
+            "answer": "C",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Sıfır Noktası' adlı romanın yazarı kimdir?", 
+            "choices": ["A: Halit Ziya Uşaklıgil", "B: Orhan Kemal", "C: İhsan Oktay Anar", "D: Reşat Nuri Güntekin"], 
+            "answer": "C",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Ateşten Gömlek' romanının yazarı kimdir?", 
+            "choices": ["A: Halide Edip Adıvar", "B: Reşat Nuri Güntekin", "C: Yakup Kadri Karaosmanoğlu", "D: Orhan Kemal"], 
+            "answer": "A",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Gurbet Kuşları' adlı eser kimin tarafından yazılmıştır?", 
+            "choices": ["A: Ahmet Altan", "B: Yakup Kadri Karaosmanoğlu", "C: Kızılırmak", "D: A. H. Tanpınar"], 
+            "answer": "B",
+            "focus_area": "Türk Edebiyatı"
+        },
+        {
+            "question": "'Küçük Şeyler' isimli eserin yazarı kimdir?", 
+            "choices": ["A: Ercan Kesal", "B: Samet Ağaoğlu", "C: Elif Şafak", "D: Orhan Pamuk"], 
+            "answer": "B",
+            "focus_area": "Türk Edebiyatı"
+        }
+    ]
+        },
+        "Sanat": {
+            "1": [
+                {
+                    "question": "'Mona Lisa' adlı ünlü tablo kimin eseridir ?", 
+                    "choices": ["A: Leonardo da Vinci", "B: Vincent van Gogh", "C: Pablo Picasso", "D: Claude Monet"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "'Yıldızlı Gece' adlı tablo kime aittir ?", 
+                    "choices": ["A: Vincent van Gogh", "B: Paul Gauguin", "C: Edvard Munch", "D: Gustav Klimt"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "'Çığlık' tablosunun ressamı kimdir ?", 
+                    "choices": ["A: Edvard Munch", "B: Gustav Klimt", "C: Claude Monet", "D: Pablo Picasso"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Rönesans dönemi hangi sanatçılarla tanınır ?", 
+                    "choices": ["A: Leonardo da Vinci, Michelangelo, Raphael", "B: Picasso, Dalí, Miró", "C: Monet, Manet, Renoir", "D: Van Gogh, Cézanne, Gauguin"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Picasso'nun hangi eseri İspanya İç Savaşı'na bir tepki olarak yapılmıştır ?", 
+                    "choices": ["A: Guernica", "B: Les Demoiselles d'Avignon", "D: La Vie", "E: Weeping Woman"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "'Düşünen Adam' heykelinin yaratıcısı kimdir ?", 
+                    "choices": ["A: Auguste Rodin", "B: Donatello", "C: Michelangelo", "D: Antonio Canova"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "'Venüs'ün Doğuşu' tablosunu kim yapmıştır ?", 
+                    "choices": ["A: Sandro Botticelli", "B: Leonardo da Vinci", "C: Michelangelo", "D: Raphael"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                }
+            ],
+            "2": [
+                {
+                    "question": "'Gece Devriyesi' adlı tablo hangi ressama aittir ?", 
+                    "choices": ["A: Rembrandt", "B: Johannes Vermeer", "C: Caravaggio", "D: Jan van Eyck"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Salvador Dalí'nin ünlü eriyen saatleri betimlediği tablosu hangisidir ?", 
+                    "choices": ["A: Belleğin Azmi", "B: Yansıma", "C: Cennet ve Cehennem", "D: Sonsuzluk"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "'Venüs ve Mars' tablosu hangi ressama aittir ?", 
+                    "choices": ["A :Sandro Botticelli", "B: Raphael", "C: Leonardo da Vinci", "D: Michelangelo"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "'Kuzgunlu Kadınlar' eseri hangi sanat akımına aittir ?", 
+                    "choices": ["A :Art Nouveau", "B :Dadaizm", "C: Ekspresyonizm", "D: Empresyonizm"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Claude Monet hangi sanat akımının öncüsüdür ?", 
+                    "choices": ["A: Empresyonizm", "B: Sürrealizm", "C: Dadaizm", "D: Barok"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "'The Persistence of Memory' adlı eser hangi sanatçıya aittir ?", 
+                    "choices": ["A: Salvador Dalí", "B: Joan Miró", "C: Pablo Picasso", "D: René Magritte"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "'İzlenim: Gündoğumu' hangi sanatçının eseridir ?", 
+                    "choices": ["A: Claude Monet", "B: Edgar Degas", "C: Pierre-Auguste Renoir", "D: Camille Pissarro"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                }
+            ],
+            
+                "3": [
+                    {
+                        "question": "'Öpücük' adlı tablo kime aittir?", 
+                        "choices": ["A: Gustav Klimt", "B: Vincent van Gogh", "C: Pablo Picasso", "D: Claude Monet"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Baba ve Oğul' adlı eser kime aittir?", 
+                        "choices": ["A: El Greco", "B: Michelangelo", "C: Leonardo da Vinci", "D: Raphael"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Bir Akşam Yemeği' adlı eseri kim yapmıştır?", 
+                        "choices": ["A: Leonardo da Vinci", "B: Caravaggio", "C: Michelangelo", "D: Raphael"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Şamatalı Düğün' hangi ressama aittir?", 
+                        "choices": ["A: Pieter Bruegel", "B: Jan van Eyck", "C: Rembrandt", "D: Caravaggio"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Gelin' adlı eseri kime aittir?", 
+                        "choices": ["A: Marc Chagall", "B: Henri Matisse", "C: Paul Cézanne", "D: Pablo Picasso"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "Hangisi Vermeer'in en ünlü eserlerinden biridir?", 
+                        "choices": ["A: İnci Küpeli Kız", "B: Gece Devriyesi", "C: Arnolfini Portresi", "D: Bahçe içinde Saray"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Nighthawks' adlı tablo hangi sanatçıya aittir?", 
+                        "choices": ["A: Edward Hopper", "B: Norman Rockwell", "C: Andy Warhol", "D: Jackson Pollock"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    }
+                ],
+            
+                "4": [
+                    {
+                        "question": "'Son Akşam Yemeği' adlı tablo kimin eseridir?", 
+                        "choices": ["A: Leonardo da Vinci", "B: Michelangelo", "C: Raphael", "D: El Greco"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Doğuş' tablosu hangi sanatçıya aittir?", 
+                        "choices": ["A: Giorgione", "B: Leonardo da Vinci", "C: Raphael", "D: Donatello"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'İspanyol Dansçı' tablosu hangi ressama aittir?", 
+                        "choices": ["A: Edgar Degas", "B: Claude Monet", "C: Édouard Manet", "D: Pierre-Auguste Renoir"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Çamaşırcı Kadın' tablosu hangi ressama aittir?", 
+                        "choices": ["A: Jean-François Millet", "B: Gustave Courbet", "C: Honoré Daumier", "D: Édouard Manet"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Büyük Dalga' adlı ünlü tahta baskı kime aittir?", 
+                        "choices": ["A: Katsushika Hokusai", "B: Hiroshige", "C: Sesshu Toyo", "D: Sesson Shukei"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Modern Olimpia' hangi sanatçıya aittir?", 
+                        "choices": ["A: Édouard Manet", "B: Paul Cézanne", "C: Claude Monet", "D: Gustav Klimt"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Yatakta: Yakın Bakış' tablosunu kim yapmıştır?", 
+                        "choices": ["A: Henri Toulouse-Lautrec", "B: Edgar Degas", "C: Pierre-Auguste Renoir", "D: Claude Monet"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    }
+                ],
+            
+                "5": [
+                    {
+                        "question": "'Bir Kadının Portresi' tablosu hangi sanatçıya aittir?", 
+                        "choices": ["A: Gustav Klimt", "B: Leonardo da Vinci", "C: Raphael", "D: El Greco"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Sonbahar Ritmi' adlı tablo hangi ressama aittir?", 
+                        "choices": ["A: Jackson Pollock", "B: Pablo Picasso", "C: Vincent van Gogh", "D: Claude Monet"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'İspanyol Kız' adlı eseri kim yapmıştır?", 
+                        "choices": ["A: Salvador Dalí", "B: Francisco Goya", "C: Diego Velázquez", "D: Joan Miró"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Balerinler' tablosu hangi ressama aittir?", 
+                        "choices": ["A: Edgar Degas", "B: Henri Toulouse-Lautrec", "C: Pierre-Auguste Renoir", "D: Claude Monet"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Sürrealist Kadın' adlı eseri kim yapmıştır?", 
+                        "choices": ["A: René Magritte", "B: Joan Miró", "D: Salvador Dalí", "E: Max Ernst"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Gerçeküstü Yansımalar' adlı tablo hangi sanatçıya aittir?", 
+                        "choices": ["A: Joan Miró", "B: Salvador Dalí", "C: Pablo Picasso", "D: René Magritte"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Alacakaranlık' hangi ressama aittir?", 
+                        "choices": ["A: Edward Hopper", "B: Jackson Pollock", "C: Andy Warhol", "D: Norman Rockwell"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    }
+                ],
+            
+                "6": [
+                    {
+                        "question": "'Guernica' hangi sanatçı tarafından yapılmıştır?", 
+                        "choices": ["A: Pablo Picasso", "B: Vincent van Gogh", "C: Edvard Munch", "D: Salvador Dalí"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Dört Şarkıcı' tablosu hangi ressama aittir?", 
+                        "choices": ["A: Edgar Degas", "B: Henri Toulouse-Lautrec", "C: Paul Cézanne", "D: Camille Pissarro"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Saint-Pierre Kilisesi' hangi sanat akımına aittir?", 
+                        "choices": ["A: Gotik", "B: Rönesans", "C: Barok", "D: Romanesk"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Bağbozumu' adlı eseri kim yapmıştır?", 
+                        "choices": ["A: Vincent van Gogh", "B: Paul Gauguin", "C: Claude Monet", "D: Paul Cézanne"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Gölün Kıyısında' tablosunu kim yapmıştır?", 
+                        "choices": ["A: Jean-François Millet", "B: Gustave Courbet", "C: Honoré Daumier", "D: Edgar Degas"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Çocuk ve Kadın' tablosu hangi sanat akımına aittir?", 
+                        "choices": ["A: Art Nouveau", "B: Ekspresyonizm", "C: Kübizm", "D: Sürrealizm"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Mavi Gitar' adlı eser hangi sanatçıya aittir?", 
+                        "choices": ["A: Pablo Picasso", "B: René Magritte", "C: Joan Miró", "D: Paul Klee"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    }
+                ],
+            
+                "7": [
+                    {
+                        "question": "'Dünya Haritası' tablosu hangi sanatçıya aittir?", 
+                        "choices": ["A: Johannes Vermeer", "B: Jan van Eyck", "C: Rembrandt", "D: Caravaggio"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Günebakanlar' tablosu hangi ressama aittir?", 
+                        "choices": ["A: Vincent van Gogh", "B: Claude Monet", "C: Pablo Picasso", "D: Paul Gauguin"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Perşembe Akşamı' adlı tablo kime aittir?", 
+                        "choices": ["A: Norman Rockwell", "B: Edward Hopper", "C: Grant Wood", "D: Thomas Hart Benton"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Bahçe İçinde Saray' hangi sanatçıya aittir?", 
+                        "choices": ["A: Jan van Eyck", "B: Johannes Vermeer", "C: Pieter Bruegel", "D: Rembrandt"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Büyük Jatte Adası' hangi sanatçı tarafından resmedilmiştir?", 
+                        "choices": ["A: Georges Seurat", "B: Paul Signac", "C: Paul Gauguin", "D: Vincent van Gogh"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'Gölette Zambaklar' adlı eser hangi sanat akımına aittir?", 
+                        "choices": ["A: Empresyonizm", "B: Kübizm", "C: Dadaizm", "D: Sürrealizm"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    },
+                    {
+                        "question": "'The Bathers' adlı tablo hangi ressama aittir?", 
+                        "choices": ["A: Paul Cézanne", "B: Pierre-Auguste Renoir", "C: Georges Seurat", "D: Edgar Degas"], 
+                        "answer": "A",
+                        "focus_area": "XXX"
+                    }
+                ]
+            },
+        "Spor": {
+            "1": [
+                {
+                    "question": "FIFA Dünya Kupası ilk kez hangi yıl düzenlenmiştir?", 
+                    "choices": ["A: 1930", "B: 1950", "C: 1920", "D: 1940"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "NBA tarihindeki en fazla şampiyon olan takım hangisidir?", 
+                    "choices": ["A: Boston Celtics", "B: Los Angeles Lakers", "C: Chicago Bulls", "D: Miami Heat"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Olimpiyat Oyunları kaç yılda bir düzenlenir?", 
+                    "choices": ["A: 4", "B: 2", "C: 6", "D: 8"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Michael Jordan hangi takımda NBA şampiyonluğu kazandı?", 
+                    "choices": ["A: Chicago Bulls", "B: Los Angeles Lakers", "C: Miami Heat", "D: Boston Celtics"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Formula 1 tarihinde en çok dünya şampiyonu olan pilot kimdir?", 
+                    "choices": ["A: Lewis Hamilton", "B: Michael Schumacher", "C: Ayrton Senna", "D: Sebastian Vettel"], 
+                    "answer": "B",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Hangi ülke en çok FIFA Dünya Kupası kazanmıştır?", 
+                    "choices": ["A: Brezilya", "B: Almanya", "C: İtalya", "D: Arjantin"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "UEFA Şampiyonlar Ligi'ni en fazla kazanan takım hangisidir?", 
+                    "choices": ["A: Real Madrid", "B: Barcelona", "C: Bayern Münih", "D: Liverpool"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                }
+            ],
+            "2": [
+                {
+                    "question": "Olimpiyatlarda yarışan ilk kadın sporcu hangi yılda katılmıştır?", 
+                    "choices": ["A: 1900", "B: 1920", "C: 1912", "D: 1896"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Wimbledon Tenis Turnuvası hangi yüzeyde oynanır?", 
+                    "choices": ["A: Çim", "B: Toprak", "C: Sentetik", "D: Hardcourt"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Maraton yarışı kaç kilometredir?", 
+                    "choices": ["A: 42.195 km", "B: 40 km", "C: 44 km", "D: 46.195 km"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Lionel Messi hangi kulüpte kariyerine başlamıştır?", 
+                    "choices": ["A: Barcelona", "B: Newell's Old Boys", "C: PSG", "D: Manchester City"], 
+                    "answer": "B",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "En hızlı 100 metre koşusunu kim yapmıştır?", 
+                    "choices": ["A: Usain Bolt", "B: Yohan Blake", "C: Justin Gatlin", "D: Tyson Gay"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Hangi sporda 'slam dunk' terimi kullanılır?", 
+                    "choices": ["A: Basketbol", "B: Voleybol", "C: Tenis", "D: Beyzbol"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                },
+                {
+                    "question": "Tour de France hangi sporda düzenlenen bir yarışmadır?", 
+                    "choices": ["A: Bisiklet", "B: Atletizm", "C: Yüzme", "D: Tenis"], 
+                    "answer": "A",
+                    "focus_area": "XXX"
+                }
+            ],
+            "3": [
+                {
+                    "question": "Hangi futbolcu 2021 yılında yedinci kez Ballon d'Or ödülünü kazanmıştır?", 
+                    "choices": ["A: Lionel Messi", "B: Cristiano Ronaldo", "C: Robert Lewandowski", "D: Luka Modric"], 
+                    "answer": "A",
+                    "focus_area": "Futbol"
+                },
+                {
+                    "question": "Olimpiyat Oyunları tarihinde en çok madalya kazanan sporcu kimdir?", 
+                    "choices": ["A: Michael Phelps", "B: Usain Bolt", "C: Carl Lewis", "D: Mark Spitz"], 
+                    "answer": "A",
+                    "focus_area": "Olimpiyat"
+                },
+                {
+                    "question": "2022 FIFA Dünya Kupası finali hangi ülkede düzenlendi?", 
+                    "choices": ["A: Katar", "B: Brezilya", "C: Rusya", "D: Japonya"], 
+                    "answer": "A",
+                    "focus_area": "Futbol"
+                },
+                {
+                    "question": "Roger Federer kariyerinde kaç Grand Slam şampiyonluğu kazanmıştır?", 
+                    "choices": ["A: 20", "B: 18", "C: 22", "D: 15"], 
+                    "answer": "A",
+                    "focus_area": "Tenis"
+                },
+                {
+                    "question": "Hangi takım en çok NBA şampiyonluğu kazanmıştır?", 
+                    "choices": ["A: Boston Celtics", "B: Los Angeles Lakers", "C: Chicago Bulls", "D: Miami Heat"], 
+                    "answer": "A",
+                    "focus_area": "Basketbol"
+                }
+            ],
+
+            "4": [
+                {
+                    "question": "FIFA Dünya Kupası tarihindeki en çok gol atan oyuncu kimdir?", 
+                    "choices": ["A: Miroslav Klose", "B: Pelé", "C: Ronaldo Nazário", "D: Lionel Messi"], 
+                    "answer": "A",
+                    "focus_area": "Futbol"
+                },
+                {
+                    "question": "Teniste, bir maçta dört büyük turnuvayı (Grand Slam) aynı yıl kazanan ilk kadın sporcu kimdir?", 
+                    "choices": ["A: Steffi Graf", "B: Serena Williams", "C: Martina Navratilova", "D: Margaret Court"], 
+                    "answer": "A",
+                    "focus_area": "Tenis"
+                },
+                {
+                    "question": "2018'de FIFA Dünya Kupası'nı kazanan ülke hangisidir?", 
+                    "choices": ["A: Fransa", "B: Hırvatistan", "C: Almanya", "D: Brezilya"], 
+                    "answer": "A",
+                    "focus_area": "Futbol"
+                },
+                {
+                    "question": "2021 Formula 1 şampiyonu kimdir?", 
+                    "choices": ["A: Max Verstappen", "B: Lewis Hamilton", "C: Valtteri Bottas", "D: Sebastian Vettel"], 
+                    "answer": "A",
+                    "focus_area": "Formula 1"
+                },
+                {
+                    "question": "Hangi spor dalında 'hole-in-one' terimi kullanılır?", 
+                    "choices": ["A: Golf", "B: Tenis", "C: Kriket", "D: Basketbol"], 
+                    "answer": "A",
+                    "focus_area": "Golf"
+                }
+            ],
+
+            "5": [
+                {
+                    "question": "Hangi ülke, 2022 FIFA Dünya Kupası'nı kazanmıştır?", 
+                    "choices": ["A: Arjantin", "B: Fransa", "C: Brezilya", "D: İspanya"], 
+                    "answer": "A",
+                    "focus_area": "Futbol"
+                },
+                {
+                    "question": "En çok Wimbledon şampiyonluğu kazanan erkek tenisçi kimdir?", 
+                    "choices": ["A: Roger Federer", "B: Novak Djokovic", "C: Rafael Nadal", "D: Andy Murray"], 
+                    "answer": "A",
+                    "focus_area": "Tenis"
+                },
+                {
+                    "question": "Hangi futbolcu 2014 FIFA Dünya Kupası'nda Altın Ayakkabı ödülünü kazanmıştır?", 
+                    "choices": ["A: James Rodríguez", "B: Lionel Messi", "C: Thomas Müller", "D: Neymar"], 
+                    "answer": "A",
+                    "focus_area": "Futbol"
+                },
+                {
+                    "question": "Krikette, bir takımın topa vurucu oyuncusuna ne denir?", 
+                    "choices": ["A: Batsman", "B: Bowler", "C: Keeper", "D: All-rounder"], 
+                    "answer": "A",
+                    "focus_area": "Kriket"
+                },
+                {
+                    "question": "NBA tarihindeki en çok sayı atan oyuncu kimdir?", 
+                    "choices": ["A: Kareem Abdul-Jabbar", "B: LeBron James", "C: Michael Jordan", "D: Kobe Bryant"], 
+                    "answer": "A",
+                    "focus_area": "Basketbol"
+                }
+            ],
+
+            "6": [
+                {
+                    "question": "2020 Tokyo Olimpiyat Oyunları'nda en fazla madalya kazanan ülke hangisidir?", 
+                    "choices": ["A: ABD", "B: Çin", "C: Japonya", "D: Rusya"], 
+                    "answer": "A",
+                    "focus_area": "Olimpiyat"
+                },
+                {
+                    "question": "Futbol tarihinde en çok FIFA Ballon d'Or ödülü kazanan oyuncu kimdir?", 
+                    "choices": ["A: Lionel Messi", "B: Cristiano Ronaldo", "C: Johan Cruyff", "D: Michel Platini"], 
+                    "answer": "A",
+                    "focus_area": "Futbol"
+                },
+                {
+                    "question": "Hangi ülkede 2016 Rio Olimpiyat Oyunları düzenlenmiştir?", 
+                    "choices": ["A: Brezilya", "B: Arjantin", "C: Meksika", "D: İspanya"], 
+                    "answer": "A",
+                    "focus_area": "Olimpiyat"
+                },
+                {
+                    "question": "NBA tarihinde en fazla triple-double yapan oyuncu kimdir?", 
+                    "choices": ["A: Russell Westbrook", "B: Magic Johnson", "C: LeBron James", "D: Jason Kidd"], 
+                    "answer": "A",
+                    "focus_area": "Basketbol"
+                },
+                {
+                    "question": "Boks tarihinde yenilgisiz emekli olan boksör kimdir?", 
+                    "choices": ["A: Floyd Mayweather", "B: Muhammad Ali", "C: Mike Tyson", "D: Manny Pacquiao"], 
+                    "answer": "A",
+                    "focus_area": "Boks"
+                }
+            ],
+
+            "7": [
+                {
+                    "question": "2021 UEFA Şampiyonlar Ligi finalini hangi takım kazanmıştır?", 
+                    "choices": ["A: Chelsea", "B: Manchester City", "C: Paris Saint-Germain", "D: Real Madrid"], 
+                    "answer": "A",
+                    "focus_area": "Futbol"
+                },
+                {
+                    "question": "Tour de France'ı 7 kez kazanan bisikletçi kimdir?", 
+                    "choices": ["A: Lance Armstrong", "B: Tadej Pogacar", "C: Chris Froome", "D: Bernard Hinault"], 
+                    "answer": "A",
+                    "focus_area": "Bisiklet"
+                },
+                {
+                    "question": "FIFA Dünya Kupası'nı 2006'da kazanan ülke hangisidir?", 
+                    "choices": ["A: İtalya", "B: Fransa", "C: Brezilya", "D: Almanya"], 
+                    "answer": "A",
+                    "focus_area": "Futbol"
+                },
+                {
+                    "question": "Tenis Grand Slam turnuvalarından hangisi toprak kortta oynanır?", 
+                    "choices": ["A: Roland Garros", "B: Wimbledon", "C: US Open", "D: Australian Open"], 
+                    "answer": "A",
+                    "focus_area": "Tenis"
+                },
+                {
+                    "question": "F1'de en hızlı turu atarak bir yarışı kazanan pilot kimdir?", 
+                    "choices": ["A: Ayrton Senna", "B: Michael Schumacher", "C: Lewis Hamilton", "D: Sebastian Vettel"], 
+                    "answer": "A",
+                    "focus_area": "Formula 1"
+                }
+            ]
+        },
+        "Müzik": {
+            "1": [
+                {
+                    "question": "Beethoven kaçıncı senfonisiyle 'Kader Senfonisi' unvanını kazanmıştır?", 
+                    "choices": ["A: 5", "B: 3", "C: 7", "D: 9"], 
+                    "answer": "A",
+                    "focus_area": "Klasik Müzik"
+                },
+                {
+                    "question": "'Bohemian Rhapsody' şarkısını hangi grup seslendirmiştir?", 
+                    "choices": ["A: Queen", "B: The Beatles", "C: Led Zeppelin", "D: Pink Floyd"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                },
+                {
+                    "question": "'Thriller' albümü hangi sanatçıya aittir?", 
+                    "choices": ["A: Michael Jackson", "B: Prince", "C: Madonna", "D: David Bowie"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "Hangi besteci 'Dört Mevsim' adlı eseri bestelemiştir?", 
+                    "choices": ["A: Antonio Vivaldi", "B: Johann Sebastian Bach", "C: Wolfgang Amadeus Mozart", "D: Ludwig van Beethoven"], 
+                    "answer": "A",
+                    "focus_area": "Klasik Müzik"
+                },
+                {
+                    "question": "Dünya çapında en çok satan albüm hangisidir?", 
+                    "choices": ["A: Thriller", "B: Back in Black", "C: The Dark Side of the Moon", "D: Abbey Road"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "Rock'n Roll'un kralı olarak bilinen sanatçı kimdir?", 
+                    "choices": ["A: Elvis Presley", "B: Chuck Berry", "C: Little Richard", "D: Buddy Holly"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                },
+                {
+                    "question": "The Beatles’ın son stüdyo albümü hangisidir?", 
+                    "choices": ["A: Let It Be", "B: Abbey Road", "C: Sgt. Pepper's Lonely Hearts Club Band", "D: Revolver"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                }
+            ],
+            "2": [
+                {
+                    "question": "Hangi şarkıcı 2020'de en çok Grammy Ödülü kazandı?", 
+                    "choices": ["A: Billie Eilish", "B: Beyoncé", "C: Taylor Swift", "D: Ariana Grande"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "'Piano Man' şarkısı kimin eseridir?", 
+                    "choices": ["A: Billy Joel", "B: Elton John", "C: Freddie Mercury", "D: Paul McCartney"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                },
+                {
+                    "question": "'Highway to Hell' şarkısı hangi gruba aittir?", 
+                    "choices": ["A: AC/DC", "B: Metallica", "C: Guns N' Roses", "D: Led Zeppelin"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                },
+                {
+                    "question": "'Hotel California' şarkısı hangi gruba aittir?", 
+                    "choices": ["A: Eagles", "B: Fleetwood Mac", "C: The Rolling Stones", "D: The Doors"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                },
+                {
+                    "question": "'Carmen' operasının bestecisi kimdir?", 
+                    "choices": ["A: Georges Bizet", "B: Giuseppe Verdi", "C: Richard Wagner", "D: Wolfgang Amadeus Mozart"], 
+                    "answer": "A",
+                    "focus_area": "Klasik Müzik"
+                },
+                {
+                    "question": "'Imagine' şarkısının bestecisi kimdir?", 
+                    "choices": ["A: John Lennon", "B: Paul McCartney", "C: George Harrison", "D: Ringo Starr"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                },
+                {
+                    "question": "'Purple Rain' şarkısı kime aittir?", 
+                    "choices": ["A: Prince", "B: David Bowie", "C: Michael Jackson", "D: Stevie Wonder"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                }
+            ],
+            "3": [
+                {
+                    "question": "Michael Jackson'ın en çok dinlenen şarkısı hangisidir?", 
+                    "choices": ["A: Billie Jean", "B: Beat It", "C: Smooth Criminal", "D: Black or White"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "En çok Grammy Ödülü kazanmış sanatçı kimdir?", 
+                    "choices": ["A: Beyoncé", "B: Stevie Wonder", "C: Michael Jackson", "D: Alison Krauss"], 
+                    "answer": "D",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "Hangi sanatçı 'Like a Rolling Stone' şarkısını yazmıştır?", 
+                    "choices": ["A: Bob Dylan", "B: Neil Young", "C: Bruce Springsteen", "D: Johnny Cash"], 
+                    "answer": "A",
+                    "focus_area": "Folk Rock"
+                },
+                {
+                    "question": "Britney Spears'ın ilk albümünün adı nedir?", 
+                    "choices": ["A: ...Baby One More Time", "B: Oops!... I Did It Again", "C: In the Zone", "D: Circus"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "Hangi grup 'Stairway to Heaven' şarkısını seslendirmiştir?", 
+                    "choices": ["A: Led Zeppelin", "B: Pink Floyd", "C: The Rolling Stones", "D: The Beatles"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                },
+                {
+                    "question": "Adele'in en çok dinlenen şarkısı hangisidir?", 
+                    "choices": ["A: Hello", "B: Someone Like You", "C: Rolling in the Deep", "D: Set Fire to the Rain"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "Dünya çapında en çok satan Rock albümü hangisidir?", 
+                    "choices": ["A: Back in Black", "B: Dark Side of the Moon", "C: Hotel California", "D: Led Zeppelin IV"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                }
+            ],
+            "4": [
+                {
+                    "question": "Hangi sanatçı 'Firework' şarkısını söylemiştir?", 
+                    "choices": ["A: Katy Perry", "B: Lady Gaga", "C: Rihanna", "D: Taylor Swift"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "Queen grubunun efsane solisti kimdir?", 
+                    "choices": ["A: Freddie Mercury", "B: Brian May", "C: Roger Taylor", "D: John Deacon"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                },
+                {
+                    "question": "Taylor Swift'in ilk albümünün adı nedir?", 
+                    "choices": ["A: Taylor Swift", "B: Fearless", "C: Speak Now", "D: 1989"], 
+                    "answer": "A",
+                    "focus_area": "Country"
+                },
+                {
+                    "question": "Hangi sanatçı 'Shape of You' şarkısını seslendirmiştir?", 
+                    "choices": ["A: Ed Sheeran", "B: Justin Bieber", "C: Bruno Mars", "D: Sam Smith"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "Dünya çapında en çok dinlenen şarkı hangisidir?", 
+                    "choices": ["A: Despacito", "B: Shape of You", "C: See You Again", "D: Bad Guy"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "Michael Bublé'nin en ünlü şarkısı hangisidir?", 
+                    "choices": ["A: Feeling Good", "B: Haven't Met You Yet", "C: Home", "D: Everything"], 
+                    "answer": "A",
+                    "focus_area": "Jazz"
+                },
+                {
+                    "question": "Hangi grup 'Somebody to Love' şarkısını seslendirmiştir?", 
+                    "choices": ["A: Queen", "B: The Beatles", "C: The Rolling Stones", "D: Led Zeppelin"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                }
+            ],
+            "5": [
+                {
+                    "question": "Müzik teorisinde 'Tonalite' nedir?", 
+                    "choices": ["A: Seslerin yüksekliği", "B: Müzik parçasının anahtarına göre düzenlenmesi", "C: Ritimlerin sürekliliği", "D: Melodi"], 
+                    "answer": "B",
+                    "focus_area": "Müzik Teorisi"
+                },
+                {
+                    "question": "Hangi enstrüman yaylı çalgılar arasında yer almaz?", 
+                    "choices": ["A: Keman", "B: Çello", "C: Trompet", "D: Viyola"], 
+                    "answer": "C",
+                    "focus_area": "Müzik Teorisi"
+                },
+                {
+                    "question": "Hangi müzik türü Afrika kökenlidir?", 
+                    "choices": ["A: Jazz", "B: Rock", "C: Pop", "D: Klasik"], 
+                    "answer": "A",
+                    "focus_area": "Müzik Tarihi"
+                },
+                {
+                    "question": "Klasik müzik dönemlerinden biri olan Romantik Dönem hangi yıllar arasında geçmiştir?", 
+                    "choices": ["A: 1820-1900", "B: 1750-1820", "C: 1600-1750", "D: 1900-1950"], 
+                    "answer": "A",
+                    "focus_area": "Müzik Tarihi"
+                },
+                {
+                    "question": "Rock müzik hangi yüzyılda popüler hale gelmiştir?", 
+                    "choices": ["A: 20. Yüzyıl", "B: 19. Yüzyıl", "C: 21. Yüzyıl", "D: 18. Yüzyıl"], 
+                    "answer": "A",
+                    "focus_area": "Müzik Tarihi"
+                },
+                {
+                    "question": "Barok dönem müziğinin en tanınmış bestecisi kimdir?", 
+                    "choices": ["A: Johann Sebastian Bach", "B: Wolfgang Amadeus Mozart", "C: Ludwig van Beethoven", "D: Frédéric Chopin"], 
+                    "answer": "A",
+                    "focus_area": "Klasik Müzik"
+                },
+                {
+                    "question": "Hangi enstrüman, Orkestra'nın temel vurmalı çalgılarından biridir?", 
+                    "choices": ["A: Davul", "B: Piyano", "C: Flüt", "D: Keman"], 
+                    "answer": "A",
+                    "focus_area": "Müzik Teorisi"
+                }
+            ],
+            "6": [
+                {
+                    "question": "Opera müziğinin en önemli temsilcisi kimdir?", 
+                    "choices": ["A: Giuseppe Verdi", "B: Richard Wagner", "C: Giacomo Puccini", "D: Wolfgang Amadeus Mozart"], 
+                    "answer": "A",
+                    "focus_area": "Klasik Müzik"
+                },
+                {
+                    "question": "Hangi müzik türü geleneksel İrlanda müziğidir?", 
+                    "choices": ["A: Folk", "B: Jazz", "C: Rock", "D: Klasik"], 
+                    "answer": "A",
+                    "focus_area": "Müzik Tarihi"
+                },
+                {
+                    "question": "Beethoven, hangi müzik dönemine aittir?", 
+                    "choices": ["A: Klasik", "B: Barok", "C: Romantik", "D: Modern"], 
+                    "answer": "A",
+                    "focus_area": "Müzik Tarihi"
+                },
+                {
+                    "question": "Müzik notalarında 'do' sesi hangi nota ile gösterilir?", 
+                    "choices": ["A: C", "B: D", "C: E", "D: F"], 
+                    "answer": "A",
+                    "focus_area": "Müzik Teorisi"
+                },
+                {
+                    "question": "Rap müziğin öncüsü kimdir?", 
+                    "choices": ["A: DJ Kool Herc", "B: Tupac Shakur", "C: The Notorious B.I.G.", "D: Jay-Z"], 
+                    "answer": "A",
+                    "focus_area": "Hip Hop"
+                },
+                {
+                    "question": "Hangi sanatçı 'Back to Black' albümünü çıkarmıştır?", 
+                    "choices": ["A: Amy Winehouse", "B: Adele", "C: Duffy", "D: Sia"], 
+                    "answer": "A",
+                    "focus_area": "Soul"
+                },
+                {
+                    "question": "Hangi grup 'Smoke on the Water' şarkısıyla tanınır?", 
+                    "choices": ["A: Deep Purple", "B: Led Zeppelin", "C: Pink Floyd", "D: Black Sabbath"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                }
+            ],
+            "7": [
+                {
+                    "question": "Müzik türlerinden hangisi en eski olanıdır?", 
+                    "choices": ["A: Klasik", "B: Rock", "C: Jazz", "D: Folk"], 
+                    "answer": "D",
+                    "focus_area": "Müzik Tarihi"
+                },
+                {
+                    "question": "Hangi sanatçı 1990'larda 'Girl Power' akımını başlatmıştır?", 
+                    "choices": ["A: Spice Girls", "B: Britney Spears", "C: Christina Aguilera", "D: Alanis Morissette"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "Hip hop müziğin en bilinen gruplarından biri hangisidir?", 
+                    "choices": ["A: Wu-Tang Clan", "B: N.W.A", "C: Run-D.M.C.", "D: Beastie Boys"], 
+                    "answer": "A",
+                    "focus_area": "Hip Hop"
+                },
+                {
+                    "question": "Hangi enstrüman rock müzikte en yaygın olarak kullanılır?", 
+                    "choices": ["A: Elektrik Gitar", "B: Piyano", "C: Flüt", "D: Trompet"], 
+                    "answer": "A",
+                    "focus_area": "Rock"
+                },
+                {
+                    "question": "En popüler dans müziği türlerinden biri hangisidir?", 
+                    "choices": ["A: EDM", "B: Jazz", "C: Rock", "D: Klasik"], 
+                    "answer": "A",
+                    "focus_area": "Elektronik Müzik"
+                },
+                {
+                    "question": "Hangi sanatçı 'Halo' şarkısını söylemiştir?", 
+                    "choices": ["A: Beyoncé", "B: Rihanna", "C: Mariah Carey", "D: Alicia Keys"], 
+                    "answer": "A",
+                    "focus_area": "Pop"
+                },
+                {
+                    "question": "Hangi grup 1970'lerde 'disco' müziğinin öncüsüdür?", 
+                    "choices": ["A: Bee Gees", "B: ABBA", "C: Chic", "D: Donna Summer"], 
+                    "answer": "A",
+                    "focus_area": "Disco"
+                }
+            ]
+        }
+
+    }
+

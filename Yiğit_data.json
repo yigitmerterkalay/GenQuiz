@@ -1,0 +1,150 @@
+{
+    "user_name": "Yiğit",
+    "history": {
+        "correct": [
+            "Su molekülü hangi iki elementten oluşur?",
+            "Hangi hayvan, Dünya'nın en hızlı koşucusudur?",
+            "Dünya'nın en büyük gezegeni hangisidir?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Hangi hayvan, Dünya'nın en hızlı koşucusudur ?",
+            "'Don Kişot' adlı eser kimin tarafından yazılmıştır ?",
+            "'Don Kişot' adlı eser kimin tarafından yazılmıştır ?",
+            "'Don Kişot' adlı eser kimin tarafından yazılmıştır ?",
+            "'Don Kişot' adlı eser kimin tarafından yazılmıştır ?",
+            "'Don Kişot' adlı eser kimin tarafından yazılmıştır ?",
+            "'Suç ve Ceza' adlı eser hangi yazara aittir ?",
+            "'Don Kişot' adlı eser kimin tarafından yazılmıştır ?",
+            "'1984' adlı distopik roman kimin eseridir ?",
+            "'Madam Bovary' adlı romanın yazarı kimdir ?",
+            "Dünya'ya en yakın yıldız hangisidir ?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Hangi hayvan, Dünya'nın en hızlı koşucusudur ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Su kaç derecede donar ?",
+            "Dünya'daki yerçekimi kuvveti kaçtır ?",
+            "Hangi elementin kimyasal sembolü 'O' dur ?",
+            "Bir elektronun negatif yükü nedir ?",
+            "Su kaç derecede donar ?",
+            "Hangisi Roma İmparatorluğu'nun kurucusudur ?",
+            "Cumhuriyet hangi tarihte ilan edilmiştir ?",
+            "Fransız İhtilali hangi yıl gerçekleşmiştir ?",
+            "Kurtuluş Savaşı hangi yıllar arasında gerçekleşmiştir ?",
+            "İlk Türk devletinin adı nedir ?",
+            "Hangi hayvan, Dünya'nın en hızlı koşucusudur ?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Su kaç derecede donar ?",
+            "Dünya'ya en yakın yıldız hangisidir ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "En yaygın element hangisidir ?",
+            "Hangisi DNA'nın yapısındaki bazlardan biri değildir ?",
+            "Bir elektronun negatif yükü nedir ?",
+            "Dünya'daki yerçekimi kuvveti kaçtır ?",
+            "Hangi elementin kimyasal sembolü 'O' dur ?",
+            "Hangi gezegen, halkalarıyla ünlüdür ?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Hangi hayvan, Dünya'nın en hızlı koşucusudur ?",
+            "Su kaç derecede donar ?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Dünya'ya en yakın yıldız hangisidir ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Dünya'ya en yakın yıldız hangisidir ?",
+            "Hangi hayvan, Dünya'nın en hızlı koşucusudur ?",
+            "Su kaç derecede donar ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Su kaç derecede donar ?",
+            "Hangi hayvan, Dünya'nın en hızlı koşucusudur ?",
+            "Dünya'ya en yakın yıldız hangisidir ?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Hangi hayvan, Dünya'nın en hızlı koşucusudur ?",
+            "Dünya'ya en yakın yıldız hangisidir ?",
+            "Su kaç derecede donar ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Hangi hayvan, Dünya'nın en hızlı koşucusudur ?",
+            "Su kaç derecede donar ?",
+            "Dünya'ya en yakın yıldız hangisidir ?",
+            "Dünya'ya en yakın yıldız hangisidir ?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Hangi hayvan, Dünya'nın en hızlı koşucusudur ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Su kaç derecede donar ?",
+            "Dünya'ya en yakın yıldız hangisidir ?",
+            "Su molekülü hangi iki elementten oluşur ?"
+        ],
+        "incorrect": [
+            "'Don Kişot' adlı eser kimin tarafından yazılmıştır ?",
+            "'Savaş ve Barış' adlı romanın yazarı kimdir ?",
+            "'Savaş ve Barış' adlı romanın yazarı kimdir ?",
+            "Su kaç derecede donar ?",
+            "Bir elektronun negatif yükü nedir ?",
+            "Tarihte ilk yazılı belgeler hangi uygarlık tarafından oluşturulmuştur ?",
+            "Işık hızı nedir ?",
+            "Güneş Sisteminin en büyük gezegeni hangisidir ?",
+            "Su molekülü hangi iki elementten oluşur ?",
+            "Su kaç derecede donar ?"
+        ],
+        "categories": {
+            "Bilim": {
+                "correct": 61,
+                "incorrect": 6
+            },
+            "Edebiyat": {
+                "correct": 9,
+                "incorrect": 3
+            },
+            "Tarih": {
+                "correct": 5,
+                "incorrect": 1
+            }
+        },
+        "focus_areas": {
+            "Kimya": {
+                "correct": 14,
+                "incorrect": 1
+            },
+            "Biyoloji": {
+                "correct": 10,
+                "incorrect": 0
+            },
+            "Klasik Edebiyat": {
+                "correct": 8,
+                "incorrect": 3
+            },
+            "Modern Edebiyat": {
+                "correct": 1,
+                "incorrect": 0
+            },
+            "Astronomi": {
+                "correct": 21,
+                "incorrect": 1
+            },
+            "Fizik": {
+                "correct": 13,
+                "incorrect": 4
+            },
+            "Antik Uygarlıklar": {
+                "correct": 1,
+                "incorrect": 0
+            },
+            "Türk Tarihi": {
+                "correct": 3,
+                "incorrect": 0
+            },
+            "Devrimler ve Hareketler": {
+                "correct": 1,
+                "incorrect": 0
+            },
+            "Antik Uygarlık": {
+                "correct": 0,
+                "incorrect": 1
+            }
+        }
+    }
+}
